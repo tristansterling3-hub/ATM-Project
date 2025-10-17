@@ -19,3 +19,9 @@ A Java-based ATM simulator with GUI using `JOptionPane`. Supports deposits, with
 2. Open project in Eclipse (or any IDE)
 3. Run `ATMSim.java`
 4. Or export as JAR and execute via:
+
+Example accounts for testing:
+- Account: 1234 | PIN: 234
+- Account: 2341 | PIN: 341
+- Account: 3412 | PIN: 412
+- Account: 4123 | PIN: 123
